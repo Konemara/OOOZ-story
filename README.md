@@ -1,3 +1,3 @@
 # OOOZ-story
-To jest historia serwera OOOZ.
-Data rozpoczęcia: 21.10.2024
+History of the OOOZ discord server.
+History begins at 21.10.2024, and has still not ended.
