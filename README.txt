@@ -1,5 +1,5 @@
 # OOOZ-story
-History of the OOOZ discord server.
+History of the OOOZ discord server (Link: https://discord.gg/AMGxG4TvDS)
 History begins at 21.10.2024, and has still not ended.
 In sugestie you will find different things about sugestions that were published, created or made.
 In Regulamin you will see how the rules looked like as of that time (int Polish btw).
