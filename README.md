@@ -8,3 +8,4 @@ In RankUp you will see rank updates per day.
 In ogloszenia you will see all the annocments made in that day.
 In door we will show the history of people joining and leaving, bans etc.
 Finally in misc. we will hold different things.
+# Have a good time reading the lore!!
